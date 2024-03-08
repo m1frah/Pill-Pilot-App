@@ -1,4 +1,4 @@
-# pill_pilotapp
+# Pill Pilot App
 
 Flutter project for the Mobile Application Development module.
 
