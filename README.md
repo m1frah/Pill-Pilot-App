@@ -1,6 +1,6 @@
 # pill_pilotapp
 
-A new Flutter project.
+Flutter project for the Mobile Application Development module.
 
 ## Getting Started
 
